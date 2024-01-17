@@ -1,0 +1,1 @@
+For my first project using python, Flask, and SQL I am attempting to automate the process of adding cards to a master database
