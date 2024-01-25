@@ -1,5 +1,5 @@
 {
     "tesseract_path": "C:\\Program Files\\Tesseract-OCR\\tesseract.exe",
-    "image_path": "Images\\BEWD.jpg",
+    "image_path": "Projects\\Card_Database_image_processing\\Images\\BEWD.jpg",
     "roi_coordinates": [25, 25, 575, 120]
 }

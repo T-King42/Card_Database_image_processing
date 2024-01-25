@@ -3,7 +3,7 @@ import json
 import pytesseract
 import matplotlib.pyplot as plt
 
-with open('config.json') as config_file:
+with open('Projects\Card_Database_image_processing\config.json') as config_file:
     config = json.load(config_file)
 
 pytesseract.pytesseract.tesseract_cmd = config["tesseract_path"]
